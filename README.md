@@ -31,5 +31,5 @@ covering full CRUD, auth and negative paths.
 
 ---
 
-📍 Relocating to Dubai, UAE · Open to employment visa sponsorship
+📍 Al Karama, Dubai, UAE · Open to employment visa sponsorship
 🔗 [LinkedIn](https://linkedin.com/in/abinaya-m-8a668b202)
